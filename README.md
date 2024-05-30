@@ -1,4 +1,4 @@
-# Container to Run rai+tamp based on Valentin's work
+# Container to Run rai+tamp for multi-robot-collaboration
 This repository creates a docker container + dev container for running [Valentin](https://github.com/vhartman/24-data-gen/tree/master)'s paper ["Towards computing low-makespan solutions for multi-arm multi-task planning problems"](https://arxiv.org/abs/2305.17527).
 
 > [!TIP]
