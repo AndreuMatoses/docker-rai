@@ -1,0 +1,19 @@
+{
+    "name": "TAMP with RAI",
+    "dockerComposeFile": [
+		"../docker-compose.yaml"],
+    "service": "tamp_rai",
+    "workspaceFolder": "/home/user/coop_tamp",
+    // "postCreateCommand": "echo 'Container started'",
+    "customizations": {
+		"vscode": {
+			"extensions": [
+                "ms-python.python",
+                "ms-vscode.cpptools",
+                "redhat.vscode-xml",
+                "GitHub.github-vscode-theme",
+                "ms-vscode.cpptools-themes"
+            ]
+		}
+	}
+  }
