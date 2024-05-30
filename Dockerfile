@@ -16,8 +16,7 @@ RUN apt-get update && apt-get install -y \
 
 # Install additional dependencies
 RUN apt-get update && apt-get install -y \
-    libspdlog-dev \
-    libfmt-dev
+    libspdlog-dev libfmt-dev ffmpeg
 
 # Install python dependencies
 RUN pip3 install pybind11 pybind11-stubgen

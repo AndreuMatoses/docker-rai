@@ -12,7 +12,8 @@
                 "ms-vscode.cpptools",
                 "redhat.vscode-xml",
                 "GitHub.github-vscode-theme",
-                "ms-vscode.cpptools-themes"
+                "ms-vscode.cpptools-themes",
+                "ms-vscode.cpptools-extension-pack"
             ]
 		}
 	}
